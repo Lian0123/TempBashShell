@@ -32,3 +32,5 @@ systemctl set-default graphical.target
 
 echo "--- Package Are Installed ---"
 
+## Ref Data1:https://serverfault.com/questions/193352/latest-openbox-yum-package-standalone-install-centos
+## Ref Data2:https://juejin.im/post/5c934a3c6fb9a070e46232bf
